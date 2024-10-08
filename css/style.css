@@ -12,8 +12,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap')
 
 :root{
-  --head-fonts: "Abril Fatface", serif;
-  --p-fonts: "Mukta", regular;
+  --head-fonts: "Mukta", regular;
+  --p-fonts: "Noto Sans Georgian", sans-serif;
 }
 
 html{
