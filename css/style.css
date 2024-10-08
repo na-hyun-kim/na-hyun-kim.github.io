@@ -49,7 +49,7 @@ body.menu-show {
 }
 
 a {
-  color: #CA82F8;
+  color: #011FSB;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -57,7 +57,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #CA82F8;
+  color: #011FSB;
 }
 
 a:focus,
