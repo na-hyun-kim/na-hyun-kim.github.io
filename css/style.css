@@ -50,7 +50,7 @@ body.menu-show {
 }
 
 a {
-  color: #2d2c41;
+  color: #026cb5;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -58,7 +58,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #2d2c41;
+  color: #026cb5;
 }
 
 a:focus,
@@ -413,7 +413,7 @@ nav ul li a{
   -moz-border-radius: 0;
   -ms-border-radius: 0;
   border-radius: 0;
-  background: #2d2c41;
+  background: #026cb5;
   color: #fff;
   border: none;
   padding: 16px;
