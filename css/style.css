@@ -90,7 +90,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(2, 108, 181, 0.8);
   font-family: var(--head-fonts);
   margin: 0 0 30px 0;
 }
